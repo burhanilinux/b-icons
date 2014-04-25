@@ -1,1 +1,1 @@
-moka-icon-theme
+b-icons

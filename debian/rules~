@@ -4,5 +4,5 @@
 	dh $@ 
 
 override_dh_auto_install:
-    --sourcedir=B-icons
+    --sourcedir=Moka
 

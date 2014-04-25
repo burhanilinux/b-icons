@@ -1,15 +1,15 @@
-Source: moka-icon-theme
+Source: b-icons
 Section: gnome
 Priority: optional
-Maintainer: Sam Hewitt <hewittsamuel@gmail.com>
+Maintainer: Juzer Dana <juzerdana@gmail.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.2
-Homepage: https://github.com/snwh/moka-icon-theme
+Homepage: https://github.com/burhanilinux/b-icons.git
 
 
-Package: moka-icon-theme
+Package: b-icons
 Architecture: all
 Depends: ${misc:Depends}
-Description: Moka Icon Theme
- Moka desktop icon theme
- Moka is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent.
+Description: B-icons Theme
+ B-icons desktop theme
+ B-icons is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent.
