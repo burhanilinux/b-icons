@@ -13,7 +13,7 @@
    height="48"
    id="svg3760"
    version="1.1"
-   inkscape:version="0.48+devel r12660"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="process-stop.svg">
   <defs
      id="defs3762" />
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="51.29769"
+     inkscape:cx="20.892099"
      inkscape:cy="11.594038"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="8.9999856,39.000012"
@@ -81,12 +81,12 @@
        x="559.28571"
        y="591.64789" />
     <path
-       style="fill:#e74c3c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#d6374d;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 574.27791,591.6479 c -3.92727,2.3e-4 -7.82858,1.61575 -10.60352,4.39258 -2.77494,2.77683 -4.38867,6.68075 -4.38867,10.60742 0,3.92667 1.61373,7.82864 4.38867,10.60547 2.77494,2.77683 6.67625,4.3943 10.60352,4.39453 3.92726,2.3e-4 7.83284,-1.61769 10.61133,-4.39453 2.77848,-2.77684 4.39648,-6.67836 4.39648,-10.60547 0,-3.92711 -1.618,-7.83058 -4.39648,-10.60742 -2.77849,-2.77685 -6.68407,-4.39281 -10.61133,-4.39258 z m 0.002,4 c 2.87999,-1.7e-4 5.7437,1.18435 7.78125,3.2207 2.03755,2.03636 3.22461,4.89942 3.22461,7.7793 0,2.87988 -1.18706,5.74099 -3.22461,7.77734 -2.03755,2.03636 -4.90126,3.22283 -7.78125,3.22266 -2.87999,-1.7e-4 -5.74043,-1.18631 -7.77539,-3.22266 -2.03496,-2.03634 -3.21875,-4.89778 -3.21875,-7.77734 0,-2.87956 1.18379,-5.741 3.21875,-7.77734 2.03496,-2.03635 4.8954,-3.22249 7.77539,-3.22266 z"
        id="path3272"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#e74c3c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#d6374d;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3282"
        width="24"
        height="4"

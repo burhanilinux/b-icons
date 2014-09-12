@@ -1,11 +1,11 @@
 [Icon Theme]
-Name=B-icons
-Comment=B-icons is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
-Inherits=
+Name=Flattr for KDE
+Comment=Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
+Inherits=Flattr
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,places/scalable,places/small,status/scalable,mimetypes/scalable
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,devices/scalable,devices/small,emblems/scalable,places/scalable,places/small,status/scalable,mimetypes/scalable
 
 [actions/scalable]
 Size=96
@@ -35,15 +35,8 @@ Type=Fixed
 Size=96
 Context=Categories
 Type=Scalable
-MinSize=32
+MinSize=16
 MaxSize=96
-
-#This folder (categories/small) contains a "fix" for Dolphin's problem with this very specific icon
-
-[categories/small]
-Size=24
-Context=Actions
-Type=Fixed
 
 [devices/scalable]
 Size=256
@@ -77,7 +70,7 @@ Type=Fixed
 #corresponding icon, for example you download a DEB file you get a DEB MIME icon).
 #Other software works fine with SVG files.
 #
-#--------------------------------Not yet in B-icons--------------------------------
+#--------------------------------Not yet in Flattr--------------------------------
 #
 #[mimetypes/16]
 #Size=16

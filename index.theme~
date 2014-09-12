@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=B-icons
-Comment=B-icons is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
+Name=Flattr
+Comment=Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
 Inherits=
 
 Example=x-directory-normal
@@ -77,7 +77,7 @@ Type=Fixed
 #corresponding icon, for example you download a DEB file you get a DEB MIME icon).
 #Other software works fine with SVG files.
 #
-#--------------------------------Not yet in B-icons--------------------------------
+#--------------------------------Not yet in Flattr--------------------------------
 #
 #[mimetypes/16]
 #Size=16
